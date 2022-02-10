@@ -1,5 +1,5 @@
 <h1 align='center'>
-  It's CryptoVerse a crypto currency application.
+  It's CryptoVerse, a crypto currency application.
 </h1>
 
 <p align='center'>
