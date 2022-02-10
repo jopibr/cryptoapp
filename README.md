@@ -1,8 +1,6 @@
-# cryptoapp
-CryptoCurrency application with ReactJS and Redux Toolkit
-
 <h1 align='center'>
-  Hi there 👋 It's CryptoVerse 👨‍💻
+  Hi there 👋 It's CryptoVerse is a👨‍💻 <br />
+   crypto currency application with ReactJS and Redux Toolkit
 </h1>
 
 <p align='center'>
